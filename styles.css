@@ -9,7 +9,7 @@ html{
 
 }
 
-#parent {
-    width: 30%;
-    margin: 0 auto;
+.center{
+margin:auto;
+width:400px;
 }
